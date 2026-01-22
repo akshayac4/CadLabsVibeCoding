@@ -1,0 +1,8 @@
+{
+  "name": "Akshay Chauhan - Salesforce Consulting",
+  "description": "Professional portfolio and consulting website for Akshay Chauhan, a Senior Salesforce Engineer specializing in Agentforce, LWC, Apex, and AI-driven CRM solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
